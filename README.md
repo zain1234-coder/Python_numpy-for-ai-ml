@@ -1,4 +1,4 @@
-# 🚀 Python & NumPy for AI/ML
+# 🚀 NumPy Library for AI/ML
 
 > A comprehensive collection of my Python and NumPy learning journey for Artificial Intelligence, Machine Learning, and Data Analytics.
 
