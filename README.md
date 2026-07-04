@@ -11,7 +11,7 @@
 
 # 📖 About This Repository
 
-This repository documents my hands-on learning journey in **Python** and **NumPy**, building the mathematical and programming foundation required for:
+This repository documents my hands-on learning journey in **NumPy an important Python library**, building the mathematical and programming foundation required for:
 
 - Artificial Intelligence
 - Machine Learning
