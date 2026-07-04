@@ -1,6 +1,6 @@
 # 🚀 NumPy Library for AI/ML
 
-> A comprehensive collection of my Python and NumPy learning journey for Artificial Intelligence, Machine Learning, and Data Analytics.
+> A comprehensive collection of my  NumPy learning journey for Artificial Intelligence, Machine Learning, and Data Analytics.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-Learning-success?logo=numpy)
